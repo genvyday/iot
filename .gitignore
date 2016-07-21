@@ -1,0 +1,14 @@
+*/bin/*
+*/target/*
+*/log/*
+*/logs/*
+*/WebRoot/WEB-INF/classes/*
+*/Debug/*
+*/ReleaseUMinDependency/*
+*/*.ncb
+*/*.opt
+~*.*
+*/*/log/*
+*/.settings/*.prefs
+*/jar/*
+.output
