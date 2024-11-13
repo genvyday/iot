@@ -252,7 +252,7 @@ value = "true"
 
 [[template.globals]]
 key = "singbox.mixed_port"
-value = "7890"
+value = "2080"
 
 [[aliases]]
 uri = "/clash"
