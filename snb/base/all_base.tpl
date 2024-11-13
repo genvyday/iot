@@ -341,7 +341,9 @@ enhanced-mode-by-rule = true
         "server": "time.apple.com",
         "server_port": 123,
         "interval": "30m",
-        "detour": "DIRECT"
+        "detour": "DIRECT",
+        "connect_timeout": "30s",
+        "fallback_delay": "30s"
     },
     "inbounds": [
         {
